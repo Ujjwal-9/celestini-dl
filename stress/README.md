@@ -1,7 +1,7 @@
 ## Models
 
-Background_Stress nb trained on Mivia Dataset
-stress_test nb trained on Ravdess Dataset
+- Background_Stress nb trained on Mivia Dataset.
+- stress_test nb trained on Ravdess Dataset.
 
 ### Results
 
