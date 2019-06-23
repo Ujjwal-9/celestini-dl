@@ -9,7 +9,7 @@
 
 | Model | Dataset | Accuracy |
 |-------|-------------|------|
-| CNN   | Mivia | 98% |
+| EDGE SPEECH NET   | Mivia | 98% |
 | CNN   | Ravdess| 87% |
 
 
