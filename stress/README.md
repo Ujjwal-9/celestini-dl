@@ -3,6 +3,11 @@
 - Background_Stress nb trained on Mivia Dataset.
 - stress_test nb trained on Ravdess Dataset.
 
+### Papers
+Mivia paper used for benchmarking: https://ieeexplore.ieee.org/document/7738082
+
+Ravdess paper used for benchmarking: https://web.eecs.umich.edu/~emilykmp/EmilyPapers/2015_Zhang_ACII.pdf
+
 ### Results
 
 > **Note** Results of Mivia dataset and Ravdess dataset:
