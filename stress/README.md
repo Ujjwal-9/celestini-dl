@@ -7,9 +7,13 @@
 
 > **Note** Results of Mivia dataset and Ravdess dataset:
 
+| Model | Dataset | Accuracy | Paper accuracy |
+|-------|-------------|------|----------------|
+| 1D CNN  | Mivia| 90% | 88.6% |
+| CNN   | Ravdess| 87% | 87.6% |
+
+> **Note** Results of Mivia dataset with some custom made datapoints added:
+
 | Model | Dataset | Accuracy |
-|-------|-------------|------|
-| EDGE SPEECH NET   | Mivia | 98% |
-| CNN   | Ravdess| 87% |
-
-
+|------|---------|----------|
+|Edge Speech Net| Mivia | 98% |
