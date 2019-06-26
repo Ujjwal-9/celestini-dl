@@ -124,6 +124,7 @@ dmypy.json
 .pyre/
 .vscode
 test
+audio-data
 
 data
 nbs/.ipynb_checkpoints
