@@ -4,4 +4,3 @@ background-safe-calm-20190621152216.wav
 background-safe-calm-20190621152249.wav
 unknown-safe-calm-20190627175643.wav
 background-safe-fearful-20190623190306.wav
-background-safe-calm-20190630202107.wav
