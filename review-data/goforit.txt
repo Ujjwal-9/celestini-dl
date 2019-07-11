@@ -1,0 +1,42 @@
+bacho-scream-fearful-20190622201334.wav
+help-safe-calm-20190623171322.wav
+help-safe-fearful-20190627174724.wav
+help-safe-fearful-20190627174615.wav
+background-scream-fearful-20190621164344.wav
+bacho-safe-fearful-20190627173302.wav
+bacho-safe-calm-20190627231727.wav -> happy
+help-scream-fearful-20190622201554.wav
+bacho-safe-fearful-20190628230738.wav
+
+
+bacho-scream-fearful-20190622200200.wav
+background-gunshots-?-20.wav
+
+
+bacho-scream-fearful-20190623184702.wav -> background, emotion
+
+unknown-safe-happy-20190624080236.wav -> calm
+
+help-safe-fearful-20190630124755.wav -> calm
+
+unknown-scream-fearful-20190622165810.wav -> angry
+
+bacho-safe-fearful-20190630124840.wav -> calm
+
+unknown-safe-happy-20190624080822.wav -> calm
+
+unknown-safe-happy-20190624080358.wav -> calm
+
+background-safe-fearful-20190622215732.wav -> angry
+
+bacho-scream-fearful-20190623184649.wav -> calm
+
+bacho-scream-fearful-20190623184644.wav -> calm
+
+unknown-safe-happy-20190624080649.wav -> calm
+
+
+
+
+help-safe-fearful-20190629082438.wav
+help-safe-fearful-20190627231042.wav
