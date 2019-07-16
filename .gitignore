@@ -125,6 +125,7 @@ dmypy.json
 .vscode
 test
 celestini-audio-dataset
+celestini-android
 
 data
 nbs/.ipynb_checkpoints
